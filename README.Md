@@ -1,5 +1,3 @@
-# Port Numbers Reference
-
 ## Application/Web Servers
 
 | Name                        | Port Number(s)       |
